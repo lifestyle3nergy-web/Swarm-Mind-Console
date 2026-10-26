@@ -1,0 +1,6 @@
+apps/dashboard/node_modules/
+apps/dashboard/dist/
+apps/dashboard/.vite/
+apps/dashboard/packages/knowledge/__pycache__/
+.venv/
+__pycache__/

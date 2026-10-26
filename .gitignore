@@ -1,0 +1,12 @@
+node_modules/
+dist/
+*.log
+api.cjs
+fix_*.py
+patch_*.py
+*.zip
+
+AI-OS-CM/
+AI-OS-CM-dashboard.patch
+*.zip
+*.py

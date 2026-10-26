@@ -1,0 +1,9 @@
+[project]
+name = "orb-knowledge-library"
+version = "0.1.0"
+description = "Local-only paired-view representation training research scaffold"
+requires-python = ">=3.10"
+dependencies = ["torch>=2.2", "torchvision>=0.17", "numpy>=1.24", "Pillow>=10"]
+
+[tool.setuptools]
+py-modules = ["knowledge_library"]
